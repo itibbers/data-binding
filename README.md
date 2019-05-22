@@ -3,7 +3,7 @@
 Two way data binding like Vue.js.
 
 This is my summary:
-
+```
 observe:
     get:
         first: add watcher
@@ -23,3 +23,4 @@ watch:
         notify: notify watcher
     watcher:
         update: update view
+```
